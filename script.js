@@ -286,3 +286,15 @@ displayMovies(movies);
 // movie.appendChild(overlay);
 
 // console.log(movie);
+
+//===================================================================
+
+// let movie = document.createElement("div");
+// movie.classList.add("movies");
+
+// let overlay = document.createElement("div");
+// overlay.classList.add("overlay");
+
+// movie.appendChild(overlay);
+
+// console.log(movie);
